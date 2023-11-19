@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Abbie!
+- 👀 I’m interested in Coding, Reading, Video games and Anime. 
+- 🌱 I’m currently learning Full-Stack Development.
+- 💞️ I’m looking to collaborate on 
+- 📫 Connect with me via Linkedin @ www.linkedin.com/in/abbiegd
